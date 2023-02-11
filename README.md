@@ -76,7 +76,7 @@ v3.0.2+g19e47ee
   plugin      install, list, or uninstall Helm plugins
   pull        download a chart from a repository and (optionally) unpack it in local directory
   repo        add, list, remove, update, and index chart repositories
-  rollback    roll back a release to a previous revision
+  rollback    roll back a release to a previous version
   search      search for a keyword in charts
   show        show information of a chart
   status      displays the status of the named release
